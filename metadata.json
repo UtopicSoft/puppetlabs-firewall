@@ -4,7 +4,7 @@
   "author": "puppetlabs",
   "summary": "Manages Firewalls such as iptables",
   "license": "Apache-2.0",
-  "tags": [ "iptables", "nftables", "firewalld" ]
+  "tags": [ "iptables", "nftables", "firewalld" ],
   "source": "https://github.com/puppetlabs/puppetlabs-firewall",
   "project_page": "http://github.com/puppetlabs/puppetlabs-firewall",
   "issues_url": "https://tickets.puppetlabs.com/browse/MODULES",
