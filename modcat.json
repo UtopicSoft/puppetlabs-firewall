@@ -1,0 +1,42 @@
+[
+    {
+        "name": "product_owner",
+        "description": "product owner",
+        "value": {
+            "full_name": "Kelvin Huber",
+            "email": "khuber@wf.com",
+            "team_link": null
+        }
+    },
+    {
+        "name": "capabilities",
+        "description": "upgrade, downgrade, install, uninstall",
+        "value": [ "install", "uninstall", "manage-firewall" ]
+    },
+    {
+        "name": "product_versions",
+        "description": "supported product versions",
+        "value": [
+        ]
+    },
+    {
+        "name": "last_review_date",
+        "description": "date of last module review",
+        "value":  "2018-11-11"
+    },
+    {
+        "name": "is_deprecated",
+        "description": "Denoted whether the module can be used for new deployments",
+        "value": false
+    },
+    {
+        "name": "is_orderable",
+        "description": "Property unknown to MC: is the product orderable?",
+        "value": true
+    },
+    {
+        "name": "is_baseline",
+        "description": "Property unknown to MC: is module part of a baseline?",
+        "value": true
+    }
+]
